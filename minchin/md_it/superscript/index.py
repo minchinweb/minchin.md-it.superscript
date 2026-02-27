@@ -1,10 +1,12 @@
 """Superscript tag plugin.
 
+Packaged by William Minchin
 Ported by Elijah Greenstein from https://github.com/markdown-it/markdown-it-sup
 cf. Subscript tag plugin, https://mdit-py-plugins.readthedocs.io/en/latest/#subscripts
 
 MIT License
 Copyright (c) 2014-2015 Vitaly Puzrin, Alex Kocharin.
+Copyright (c) 2026 William Minchin
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
