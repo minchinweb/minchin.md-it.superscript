@@ -6,7 +6,7 @@ __all__ = ("superscript_plugin",)
 
 __title__ = "minchin.md-it.superscript"
 __tagline__ = "Superscript, for Markdown-IT-Py"
-__version__ = "1.0.0"
+__version__ = "1.0.1-dev"
 __author__ = "William Minchin"
 __email__ = "w_minchin@hotmail.com"
 __license__ = "MIT License"
