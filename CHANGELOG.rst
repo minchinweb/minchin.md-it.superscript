@@ -3,6 +3,7 @@ Changelot for Superscipt
 
 A plugin for Markdown-IT-py
 
+- :support:`-` add license text
 - :bug:`-` fix example code
 - :release:`1.0.0 <2026-02-26>`
 - :feature:`-` initial port, from a `Pull Request
