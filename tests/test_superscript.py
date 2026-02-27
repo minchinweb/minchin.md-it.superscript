@@ -4,7 +4,7 @@ from markdown_it import MarkdownIt
 from markdown_it.utils import read_fixture_file
 import pytest
 
-from mdit_py_plugins.superscript import superscript_plugin
+from minchin.md_it.superscript import superscript_plugin
 
 FIXTURE_PATH = Path(__file__).parent.joinpath("fixtures")
 
