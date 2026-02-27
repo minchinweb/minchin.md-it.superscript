@@ -15,7 +15,7 @@ characters, and that nested markup is not supported.
 Example usage::
 
     >>> from markdown_it import MarkdownIt
-    >>> from mdit_py_plugins.superscript import superscript_plugin
+    >>> from minchin.md_it.superscript import superscript_plugin
     >>> md = MarkdownIt().use(superscript_plugin)
     >>> md.render("1^st^")
     '<p>1<sup>st</sup></p>\\n'
